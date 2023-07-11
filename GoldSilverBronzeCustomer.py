@@ -1,4 +1,4 @@
-#Compound Conditionals
+#Are you a Gold, Silver, or Bronze customer?
 
 annualSales = 200000
 newCustomer = True
